@@ -8,7 +8,7 @@ Install
 
 To install with Vundle, put this line to your vimrc file:
 
-    Plugin rockosov/vim-syntax-simics
+    Plugin 'rockosov/vim-syntax-simics'
 
 To install, issue this command in your linux terminal:
 
